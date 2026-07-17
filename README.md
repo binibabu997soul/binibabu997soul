@@ -31,7 +31,7 @@ I'm passionate about transforming raw data into meaningful insights that help bu
 ### Version Control
 - Git
 - GitHub
-- 
+  
 ### 📌 Featured Projects
 Here you'll find projects covering topics such as:
 - Business Analytics
