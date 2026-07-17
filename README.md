@@ -12,3 +12,19 @@ I'm passionate about transforming raw data into meaningful insights that help bu
 - 📚 Expanding my portfolio with business case studies and analytics solutions
 - 🌐 Sharing insights through GitHub, Blogger, and YouTube
 ## 🛠️ Tools & Technologies
+### Languages
+- Python
+- SQL
+### Data Analysis
+- Pandas
+- NumPy
+- Excel
+### Data Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Machine Learning
+- Scikit-learn
+### Version Control
+- Git
+- GitHub
