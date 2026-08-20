@@ -47,7 +47,7 @@ To use data to solve real business problems, create impactful analytics solution
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/bini-b1997/ 
+- 💼 LinkedIn:https://www.linkedin.com/in/binibabuanalytics/
 - 📧 Email: binibabu997@gmail.com
 - 🌐 Blog: https://binibabu.blogspot.com/
 - ▶️ YouTube: https://www.youtube.com/@binikeepstalking
